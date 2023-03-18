@@ -1,1 +1,1 @@
-# game-sales-research
+### Game sales research to gain knowledge in Machine learning
